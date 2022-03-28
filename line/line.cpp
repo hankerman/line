@@ -127,7 +127,7 @@ int main()
 
     cout << "Enter row: ";
     cin >> row;
-    cout << "Enter cow: ";
+    cout << "Enter cols: ";
     cin >> cols;
     cout << endl;
     int** matr = nullptr;
